@@ -50,9 +50,9 @@ Projects I'm building through my M.Tech — updated as they ship.
 
 ## 📊 GitHub Stats
 
-![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalini-ee&show_icons=true&theme=default&hide_border=true)
+![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=aspiremis&show_icons=true&theme=default&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-ee&layout=compact&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiremis&layout=compact&theme=default&hide_border=true)
 
 ---
 
